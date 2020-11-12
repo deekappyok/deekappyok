@@ -1,6 +1,6 @@
 ### Hejka, jestem Kacper [DeeKaPPy][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dkcode.pl)
+[![Website](https://img.shields.io/website?label=dkcode.pl&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dkcode.pl)
 
 ###  Szybki Kontakt
 
