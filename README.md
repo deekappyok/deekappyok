@@ -15,4 +15,5 @@
 
 #### 💻 My Public Projects:
 - [splashmc.pl](https://splashmc.pl) (JAVA)
+- [crafteria.pl](https://crafteria.pl) (NEXT.JS + JAVA)
 - [ts3ab.pl](https://my.ts3ab.pl) (NODE.JS + C#)
