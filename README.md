@@ -14,5 +14,5 @@
 
 
 🌐 My Public Projects:
-- [ONGOING] [splashmc.pl](https://splashmc.pl) (JAVA)
-- [ONGOING] [ts3ab.pl](https://my.ts3ab.pl) (NODE.JS + C#)
+- [X] [splashmc.pl](https://splashmc.pl) (JAVA)
+- [X] [ts3ab.pl](https://my.ts3ab.pl) (NODE.JS + C#)
