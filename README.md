@@ -1,7 +1,7 @@
 ### Hi, im DeeKaPPy! 👋
 
 
-### 💻 So far I've used:
+#### ⚒ So far I've used:
 ![React.js](https://img.shields.io/badge/-React.js-007494?style=flat&logo=react)
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js)
@@ -13,6 +13,6 @@
 ![Java](https://img.shields.io/badge/-Java-e6322d?style=flat&logo=java)
 
 
-🌐 My Public Projects:
+#### 💻 My Public Projects:
 - [splashmc.pl](https://splashmc.pl) (JAVA)
 - [ts3ab.pl](https://my.ts3ab.pl) (NODE.JS + C#)
