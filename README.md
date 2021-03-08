@@ -14,5 +14,5 @@
 
 
 🌐 My Public Projects:
-- [X] [splashmc.pl](https://splashmc.pl) (JAVA)
-- [X] [ts3ab.pl](https://my.ts3ab.pl) (NODE.JS + C#)
+- [splashmc.pl](https://splashmc.pl) (JAVA)
+- [ts3ab.pl](https://my.ts3ab.pl) (NODE.JS + C#)
