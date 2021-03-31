@@ -1,5 +1,9 @@
 ### Hi, im DeeKaPPy! 👋
 
+#### 📞 Kontakt me:
+- Email: deekappy@gmail.com
+- Discord: https://dc.dkcode.pl
+- Website: https://dkcode.pl
 
 #### ⚒ So far I've used:
 ![React.js](https://img.shields.io/badge/-React.js-007494?style=flat&logo=react)
@@ -16,4 +20,5 @@
 #### 💻 My Public Projects:
 - [splashmc.pl](https://splashmc.pl) (JAVA)
 - [crafteria.pl](https://crafteria.pl) (NEXT.JS + JAVA)
+- [rosehc.pl](https://rosehc.pl) (NODE.JS + JAVA)
 - [ts3ab.pl](https://my.ts3ab.pl) (NODE.JS + C#)
