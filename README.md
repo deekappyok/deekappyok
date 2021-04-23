@@ -18,7 +18,8 @@
 
 
 #### 💻 My Public Projects:
+- [l.dkcode.pl](https://l.dkcode.pl) (NODE.JS)
 - [splashmc.pl](https://splashmc.pl) (JAVA)
 - [crafteria.pl](https://crafteria.pl) (NEXT.JS + JAVA)
 - [rosehc.pl](https://rosehc.pl) (NODE.JS + JAVA)
-- [ts3ab.pl](https://my.ts3ab.pl) (NODE.JS + C#)
+- [ts3ab.pl](https://my.ts3ab.pl) (NEXT.JS + C#)
