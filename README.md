@@ -2,8 +2,8 @@
 
 #### 📞 Kontakt me:
 - Email: deekappy@gmail.com
-- Discord: https://dc.dkcode.eu
-- Website: https://dkcode.eu
+- Discord: [dc.dkCode.eu](https://dc.dkCode.eu)
+- Website: [dkCode.eu](https://dkCode.eu)
 
 #### ⚒ So far I've used:
 ![React.js](https://img.shields.io/badge/-React.js-007494?style=flat&logo=react)
