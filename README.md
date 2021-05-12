@@ -23,7 +23,7 @@
 - [hypedrop.pl](https://hypedrop.pl) (JAVA)
 - [crafteria.pl](https://crafteria.pl) (NEXT.JS + JAVA)
 - [rosehc.pl](https://rosehc.pl) (NEXT.JS + JAVA)
-- [ts3ab.pl](https://my.ts3ab.pl) (NEXT.JS + C#)
+- [my.ts3ab.pl](https://my.ts3ab.pl) (NEXT.JS + C#)
 
 #### 📈 My Github Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DeeKaPPy&show_icons=true&theme=dark)
