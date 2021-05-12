@@ -22,7 +22,7 @@
 - [splashmc.pl](https://splashmc.pl) (JAVA)
 - [hypedrop.pl](https://hypedrop.pl) (JAVA)
 - [crafteria.pl](https://crafteria.pl) (NEXT.JS + JAVA)
-- [rosehc.pl](https://rosehc.pl) (NODE.JS + JAVA)
+- [rosehc.pl](https://rosehc.pl) (NEXT.JS + JAVA)
 - [ts3ab.pl](https://my.ts3ab.pl) (NEXT.JS + C#)
 
 #### 📈 My Github Stats:
