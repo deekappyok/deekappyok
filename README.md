@@ -1,6 +1,6 @@
 ### Hi, im DeeKaPPy! 👋
 
-#### 📞 Kontakt me:
+#### 📞 Contakt me:
 - Email: deekappy@gmail.com
 - Discord: [dc.dkCode.eu](https://dc.dkCode.eu)
 - Website: [dkCode.eu](https://dkCode.eu)
