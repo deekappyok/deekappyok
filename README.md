@@ -1,7 +1,7 @@
 ### Hi, im DeeKaPPy! 👋
 
 #### 📞 Contakt me:
-- Email: deekappy@gmail.com
+- Email: kacper@dkcode.eu
 - Discord: [dc.dkCode.eu](https://dc.dkCode.eu)
 - Website: [dkCode.eu](https://dkCode.eu)
 
