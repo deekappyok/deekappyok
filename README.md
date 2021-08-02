@@ -5,8 +5,8 @@
   <h2>👨 About Me</h2>
   <p>
     <samp>
-       I'm a self-taught backend developer (From Poland 🤍❤️) who works together with the best of the best to achieve your goals!
-       I started my programing journey at the age of 10 writing my first <code>Hello World</code> in HTML, i quickly decided to quit HTML and moved on to learning python, java and finally JavaScript. Most off which i use until this day. And that's all the basics you need to know about me :D
+       I'm a self-taught backend developer (From Poland 🤍❤️) who works together with the best of the best to achieve our and your goals!
+       I started my programing journey at the age of 10 writing my first <code>Hello World</code> in HTML, i quickly decided to quit HTML and moved on to learning python, java and finally JavaScript. Most off which i still use until this day. And that's all the basics you need to know about me :D
     </samp>
   </p>
    <h2>📫 Social Media</h2>
