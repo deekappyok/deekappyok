@@ -25,6 +25,7 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=Node.js)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=next.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) 
+<br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-Github-black?style=flat&logo=github)
 ![InteliJ Idea](https://img.shields.io/badge/InteliJ%20idea-black?style=flat&logo=intellij-idea)
