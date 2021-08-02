@@ -34,6 +34,12 @@
 ![SQL](https://img.shields.io/badge/-sql-black?style=flat&logo=mysql)
 ![Debian](https://img.shields.io/badge/-Debian-black?style=flat&logo=debian)
 
+<h2>💻 Some of my projects</h2>
+[hypedrop.pl](https://hypedrop.pl) (JAVA) <br>
+[crafteria.pl](https://crafteria.pl) (NEXT.JS + JAVA) <br>
+[rosehc.pl](https://rosehc.pl) (NEXT.JS + JAVA) <br>
+[my.ts3ab.pl](https://my.ts3ab.pl) (NEXT.JS + C#) <br>
+
 </div>
 
 
