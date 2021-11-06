@@ -35,11 +35,11 @@
   ![Debian](https://img.shields.io/badge/-Debian-black?style=flat&logo=debian)
 
   <h2>💻 Some of my projects</h2>
-  <a href="https://hypedrop.pl">HYPEDROP.PL (JAVA)</a> <br>
+  <a href="https://mcevent.pl">MCEVENT.PL (JAVA)</a> <br>
   <a href="https://crafteria.pl">CRAFTERIA.PL (NEXT.JS + JAVA)</a> <br>
   <a href="https://rosehc.pl">ROSEHC.PL (NEXT.JS + JAVA)</a> <br>
+  <a href="https://hypedrop.pl">HYPEDROP.PL (JAVA)</a> <br>
   <a href="https://ts3ab.pl">TS3AB.PL (NEXT.JS + C#)</a> <br>
-
 
   <br><br>
   <details>
