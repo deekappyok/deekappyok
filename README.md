@@ -36,6 +36,7 @@
 
   <h2>💻 Some of my projects</h2>
   <a href="https://mcevent.pl">MCEVENT.PL (JAVA)</a> <br>
+  <a href="https://spacecash.eu">SPACECASH.EU (JAVA)</a> <br>
   <a href="https://crafteria.pl">CRAFTERIA.PL (NEXT.JS + JAVA)</a> <br>
   <a href="https://rosehc.pl">ROSEHC.PL (NEXT.JS + JAVA)</a> <br>
   <a href="https://hypedrop.pl">HYPEDROP.PL (JAVA)</a> <br>
