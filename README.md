@@ -35,11 +35,6 @@
   ![SQL](https://img.shields.io/badge/-sql-black?style=flat&logo=mysql)
   ![Debian](https://img.shields.io/badge/-Debian-black?style=flat&logo=debian)
 
-  <h2>💻 Some of my current (public) projects</h2>
-  <a href="https://mcevent.pl">MCEVENT.PL (JAVA)</a> <br>
-  <a href="https://spacecash.eu">SPACECASH.EU (JAVA)</a> <br>
-  <a href="https://crafteria.pl">CRAFTERIA.PL (NEXT.JS + JAVA)</a> <br>
-
   <br><br>
   <details>
     <summary>📈 My Github Statistics</summary>
