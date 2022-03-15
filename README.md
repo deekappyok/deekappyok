@@ -41,6 +41,8 @@
     <p >
         <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DeeKaPPy&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=cb1aad&text_color=fff&show_icons=true&theme=dark">
         <br>
+        <img alt = "GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DeeKaPPy&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=cb1aad&text_color=fff&show_icons=true&theme=dark">
+        <br>
         <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeeKaPPy&hide=html,&hide_border=true&show_icons=true&theme=dark&title_color=cb1aad&text_color=fff"
     </p>
   </details>
