@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Hey, i'm DeeKaPPy! 👋 </h1>
   <img src="https://komarev.com/ghpvc/?username=DeeKaPPy" alt="DeeKaPPy" /><br/><br/>
-  <img src="https://github.com/DeeKaPPy/DeeKaPPy/blob/main/git-main.png" alt="header"/>
+  <img src="https://i.imgur.com/fgVCkX0.png" alt="header"/>
   <h2>👨 About Me</h2>
   <p>
     <samp>
