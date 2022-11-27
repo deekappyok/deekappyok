@@ -34,7 +34,11 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
   ![SQL](https://img.shields.io/badge/-sql-black?style=flat&logo=mysql)
   ![Debian](https://img.shields.io/badge/-Debian-black?style=flat&logo=debian)
-
+  
+  <br><br>
+  <h2>🎶 My Spotify History</h2>
+  <img alt = "Spotify playlist" src="https://spotify-recently-played-readme.vercel.app/api?user=wdjiwrb0l0dy9huxcarecyxbo&count=3">
+  
   <br><br>
   <details>
     <summary>📈 My Github Statistics</summary>
