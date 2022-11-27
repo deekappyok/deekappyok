@@ -11,13 +11,14 @@
   </p>
    <h2>📫 Social Media</h2>
   
-  <b>Discord:</b> .₭āċքēṝ💞🥺#7578 |
-  <b>Email:</b> <a href="mailto:hello@dkcode.eu">hello@dkCode.eu</a> | 
+  <b>Discord:</b> .₭āċքēṝ💞🥺#7578 ・ 
+  <b>Discord Server: <a href="https://dc.dkcode.eu">dc.dkCode.eu</a>
+  <br>
+  <b>Email:</b> <a href="mailto:hello@dkcode.eu">hello@dkCode.eu</a> ・ 
   <b>Website:</b> <a href="https://dkCode.eu">dkCode.eu</a>
   <br>
-  <b>Instagram:</b> <a href="https://instagram.com/_deekappy_/">@_deekappy_</a> |
-  <b>Twitter:</b> <a href="https://twitter.com/deekappy">@deekappy</a> |
-  <b>Buy me a coffee:</b> <a href="https://www.buymeacoffee.com/deekappy">deekappy</a>
+  <b>Instagram:</b> <a href="https://instagram.com/_deekappy_/">@_deekappy_</a> ・ 
+  <b>Twitter:</b> <a href="https://twitter.com/deekappy">@deekappy</a>
 
   <h2>⚒ Languages and Tools</h2>
   
