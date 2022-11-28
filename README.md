@@ -11,7 +11,7 @@
   </p>
    <h2>📫 Social Media</h2>
   
-  <b>Discord:</b> .₭āċքēṝ💞🥺#7578 ・ 
+  <b>Discord:</b> <code>.₭āċքēṝ💞🥺#7578</code> ・ 
   <b>Discord Server: <a href="https://dc.dkcode.eu">dc.dkCode.eu</a>
   <br>
   <b>Email:</b> <a href="mailto:hello@dkcode.eu">hello@dkCode.eu</a> ・ 
