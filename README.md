@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Hey, i'm DeeKaPPy! 👋 </h1>
   <img src="https://komarev.com/ghpvc/?username=DeeKaPPy" alt="DeeKaPPy" /><br/><br/>
-  <img src="https://i.imgur.com/fgVCkX0.png" alt="header"/>
+  <img src="https://i.imgur.com/nkMyaHS.png" alt="header"/>
   <h2>👨 About Me</h2>
   <p>
     <samp>
@@ -11,14 +11,8 @@
   </p>
    <h2>📫 Social Media</h2>
   
-  <b>Discord:</b> <code>.₭āċքēṝ💞🥺#7578</code> ・ 
-  <b>Discord Server: <a href="https://dc.dkcode.eu">dc.dkCode.eu</a>
-  <br>
   <b>Email:</b> <a href="mailto:hello@dkcode.eu">hello@dkCode.eu</a> ・ 
-  <b>Website:</b> <a href="https://dkCode.eu">dkCode.eu</a>
-  <br>
-  <b>Instagram:</b> <a href="https://instagram.com/_deekappy_/">@_deekappy_</a> ・ 
-  <b>Twitter:</b> <a href="https://twitter.com/deekappy">@deekappy</a>
+  <b>Website:</b> <a href="https://dkCode.eu">dkCode.eu</a
 
   <h2>⚒ Languages and Tools</h2>
   
@@ -38,17 +32,5 @@
   
   <h2>🎶 My Spotify History</h2>
   <img alt = "Spotify playlist" src="https://spotify-recently-played-readme.vercel.app/api?user=wdjiwrb0l0dy9huxcarecyxbo&count=3">
-  
-  <br><br>
-  <details>
-    <summary>📈 My Github Statistics</summary>
-    <p >
-        <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DeeKaPPy&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=cb1aad&text_color=fff&show_icons=true&theme=dark">
-        <br>
-        <img alt = "GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DeeKaPPy&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=cb1aad&text_color=fff&show_icons=true&theme=dark">
-        <br>
-        <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeeKaPPy&hide=html,&hide_border=true&show_icons=true&theme=dark&title_color=cb1aad&text_color=fff"
-    </p>
-  </details>
-</div>
+  </div>
 
